@@ -1,2 +1,3 @@
 # Zomato-Bangalore-Restaurants
-Zomato Bangalore Restaurants from Kaggle by HIMANSHU PODDAR
+Zomato Bangalore Restaurants dataset from Kaggle
+
